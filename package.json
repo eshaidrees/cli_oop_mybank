@@ -1,6 +1,6 @@
 {
-  "name": "cli_oop_mybank_1001",
-  "version": "1.0.0",
+  "name": "cli_oop_my_bank_1001",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
