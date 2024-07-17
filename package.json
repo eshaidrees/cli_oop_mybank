@@ -1,7 +1,6 @@
 {
-  "name": "cli_oop_my_bank_1001",
-  "version": "1.0.1",
-  "description": "",
+  "name": "cli-oop-my-bank1234",
+  "version": "2.0.1",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
@@ -17,5 +16,6 @@
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
-  }
+  },
+  "description": ""
 }
